@@ -1,8 +1,10 @@
 #Instagram Reach Forecasting
+
 #Overview
 This project aims to predict future Instagram reach using historical data and time series forecasting techniques. By analyzing past performance, content creators and social media managers can optimize their posting strategies to maximize engagement and reach.
 
 #Features
+
 Data Analysis & Visualization:
 Line charts to show reach trends over time.
 Bar charts to compare daily reach.
